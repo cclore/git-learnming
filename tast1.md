@@ -8,3 +8,5 @@ hhhfas0.0
 ihao
 ksdfj
 nihao hi hello
+
+    test close
